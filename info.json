@@ -1,0 +1,10 @@
+{
+  "commit": {
+    "commit": "240fb6e5478b58c82e081ef994403b252ecea61c",
+    "author": "Matt Leonawicz <matt_leonawicz@esource.com>",
+    "time": "2019-03-14 14:24:22",
+    "message": "Merge pull request #12 from jebyrnes/master\n\nUpdate tile.R"
+  },
+  "remote": "https://github.com/ropensci/tiler",
+  "pkg": "tiler"
+}

@@ -1,0 +1,9 @@
+pandoc: 2.2.1
+pkgdown: 1.4.1
+pkgdown_sha: ~
+articles:
+  tiler: tiler.html
+urls:
+  reference: https://docs.ropensci.org/tiler/reference
+  article: https://docs.ropensci.org/tiler/articles
+
