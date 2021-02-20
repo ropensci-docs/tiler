@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "51c1551853f17891c72e21d40cdee5da5911e1bf",
+    "author": "leonawicz <matt_leonawicz@esource.com>",
+    "time": "2021-02-20 16:51:14",
+    "files": 5,
+    "merge": false,
+    "message": "Fix URLs.\n"
+  },
+  "remote": "https://github.com/ropensci/tiler",
+  "pkg": "tiler"
+}
