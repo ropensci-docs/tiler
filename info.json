@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "593ba89ad49f2e6b8f2916454250dbed052970f4",
+    "author": "leonawicz <mfleonawicz@gmail.com>",
+    "time": "2023-09-10 01:34:33",
+    "files": 6,
+    "merge": false,
+    "message": "Add package alias.\n"
+  },
+  "repo": "https://github.com/ropensci/tiler",
+  "pkg": "tiler"
+}
