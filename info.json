@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c4f970fc39f2cd8baa858fd6022dc1f068461a76",
+    "author": "Matt Leonawicz <rpkgs@proton.me>",
+    "time": "2025-12-02T18:46:09Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #28 from ropensci/maelle-patch-2\n\nci: update GHA workflow"
+  },
+  "repo": "https://github.com/ropensci/tiler",
+  "pkg": "tiler",
+  "time": "2026-08-30T07:41:25Z"
+}
